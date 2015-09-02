@@ -1,0 +1,6 @@
+Fifth Third
+01/01/2015 Food 11.00
+01/11/2015 Misc 5.00
+01/27/2015 Electronics 90.00
+02/15/2015 Misc 33.00
+03/01/2015 Electronics 45.00
