@@ -5,5 +5,5 @@ The application takes in three text files (FifthThird.txt, Chase.txt, BOA.txt) w
 
 
 run the commands: 
-    g++ -std=c++11 main.cpp
+    g++ -std=c++11 main.cpp <br/>
     ./a.out
