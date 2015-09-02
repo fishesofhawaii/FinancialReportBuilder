@@ -27,8 +27,8 @@ public:
     }
     
 private:
-    string date;
     string amount;
+    string date;
     string card;
     
     
